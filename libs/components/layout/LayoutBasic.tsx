@@ -24,7 +24,7 @@ const withLayoutBasic = (Component: any) => {
           }}
         >
           <Stack className="container">
-            <strong>Property Search</strong>
+            <strong>Search</strong>
             <span>We are glad to see you againg!</span>
           </Stack>
         </Stack>
