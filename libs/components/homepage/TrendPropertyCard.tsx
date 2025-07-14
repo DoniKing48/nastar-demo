@@ -12,25 +12,25 @@ const TrendPropertiesCard = () => {
           backgroundImage: "url('/img/banner/types/house.webp')",
         }}
       >
-        <div>$420,000</div>
+        <div>$10</div>
       </Box>
 
       <Box className="info">
-        <Typography className="title">Run Will Buildings</Typography>
-        <Typography className="desc">Seoul Gangnam Apartments</Typography>
+        <Typography className="title">Kingston Buildings</Typography>
+        <Typography className="desc">no description</Typography>
 
         <Box className="options">
           <Box>
             <img src="/img/icons/bed.svg" alt="Beds" />
-            <span>3 beds</span>
+            <span>2 beds</span>
           </Box>
           <Box>
             <img src="/img/icons/room.svg" alt="Rooms" />
-            <span>7 rooms</span>
+            <span>5 rooms</span>
           </Box>
           <Box>
             <img src="/img/icons/expand.svg" alt="Area" />
-            <span>250 m²</span>
+            <span>150 m²</span>
           </Box>
         </Box>
 
